@@ -3,8 +3,8 @@
 Welcome to my GitHub profile!  
 I'm a full-stack developer passionate about scalable systems, cross-platform apps, and real-time communication systems.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baehyeok&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baehyeok&layout=compact)
 
 ---
 
