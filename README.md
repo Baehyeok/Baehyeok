@@ -61,7 +61,7 @@ I'm a full-stack developer passionate about scalable systems, cross-platform app
 
 Feel free to connect or reach out!  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jgbh2736@gmail.com)
-![Visitors](https://komarev.com/ghpvc/?username=your-username&style=flat&color=blue)
+![Visitors](https://komarev.com/ghpvc/?username=Baehyeok&style=flat&color=blue)
 <!-- 이메일, 블로그, 포트폴리오, LinkedIn 등 링크 여기에 추가 -->
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
