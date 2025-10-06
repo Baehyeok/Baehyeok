@@ -1,40 +1,51 @@
-## Hi there 👋
+# 👋 Hi there! I'm Jegal Baehyeok
 
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-</div>
+Welcome to my GitHub profile!  
+I'm a full-stack developer passionate about building scalable systems, cross-platform applications, and efficient backends.  
 
-<div align="center">
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
+---
 
-<br>
+## 🚀 Tech Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-</div>
+### 💻 Languages
+- HTML / CSS / JavaScript  
+- Python  
+- Dart  
 
-<br>
+### 🧩 Frameworks & Libraries
+- Django, FastAPI (Backend)
+- Flutter (Cross-platform UI)
+- PyQt (Desktop UI)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baehyeok&layout=compact)
+### 🗄️ Database & Storage
+- Relational: MySQL, SQLite  
+- NoSQL: MongoDB, Redis, InfluxDB  
 
+### 🌐 Communication Protocols
+- MQTT v3.1.1, HTTP, TCP/IP  
+- WebSocket, Modbus RTU  
+
+### 🛠️ Tools & Deployment
+- OS: Windows, Android, iOS  
+- Version Control: Git, GitHub  
+- Deployment Experience: Mobile (iOS/Android), Desktop (Windows)
+
+---
+
+## ✨ What I Enjoy Building
+- 📱 Cross-platform mobile apps with Flutter  
+- ⚙️ Real-time backend systems with FastAPI and MQTT  
+- 🖥️ Desktop applications with PyQt  
+- 🔧 IoT & device communication systems using Modbus, Socket, etc.
+
+---
+
+## 📫 Let's Connect!
+Feel free to check out my repositories or reach out if you're interested in collaboration or just want to say hi!
+
+<!-- Optionally add your contact or social media -->
 <!--
-**Baehyeok/Baehyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](your-link)
+[![Blog](https://img.shields.io/badge/Blog-grey?logo=github&style=flat)](your-link)
 -->
+
