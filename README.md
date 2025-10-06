@@ -3,8 +3,6 @@
 Welcome to my GitHub profile!  
 I'm a full-stack developer passionate about scalable systems, cross-platform apps, and real-time communication systems.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baehyeok&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baehyeok&layout=compact)
 
 ---
 
@@ -57,6 +55,11 @@ I'm a full-stack developer passionate about scalable systems, cross-platform app
 - 🎯 I love building real-time systems, mobile & desktop apps, and efficient APIs.
 - 🛠️ Experienced in deploying apps to Android, iOS, and Windows.
 - 🌍 Open to collaboration and always learning new things!
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baehyeok&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baehyeok&layout=compact)
 
 ---
 
